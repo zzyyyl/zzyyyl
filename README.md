@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+<img src="https://count.getloli.com/get/@zzyyyl?theme=gelbooru-h"/>
+</div>
+
 ---
 
 <img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=zzyyyl&theme=tokyonight&show_icons=true&count_private=true">
