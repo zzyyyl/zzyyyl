@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=zzyyyl&theme=tokyonight&show_icons=true&count_private=true">
+<img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=zzyyyl&theme=tokyonight&show_icons=true&count_private=true&hide_border=true">
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zzyyyl&theme=tokyonight&show_icons=true&count_private=true) -->
 
 - 🐶 I'm currently a college student.✨
