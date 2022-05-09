@@ -24,8 +24,10 @@
 
 #### Tools
 
-![](https://img.shields.io/badge/Sublime_Text_4-212223?logo=sublimetext&logoColor=FF9980)
-![](https://img.shields.io/badge/Git-2296FF?logo=Git&logoColor=fff)
+![](https://img.shields.io/badge/Sublime_Text_4-424242?logo=sublimetext&logoColor=FF9800)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/-Visual%20Studio-6C4EA2?style=flat-square&logo=visual-studio&logoColor=fff)
+![](https://img.shields.io/badge/Git-E95420?logo=Git&logoColor=fff)
 
 #### Platforms
 
