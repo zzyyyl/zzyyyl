@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning COD & OS.
 - 👀 I'm interested in 💻coding, 📝math, 🎶music, 🎥anime.
 - 💬 Ask me about anything [here](https://github.com/zzyyyl/zzyyyl/issues).
-- 📧 Reach me through GitHub or zhengyile@mail.ustc.edu.cn.
+- 📧 Reach me through GitHub or aysyxx53@hotmail.com.
 
 #### languages
 
