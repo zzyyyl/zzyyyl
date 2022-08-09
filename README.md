@@ -15,10 +15,11 @@
 - 💬 Ask me about anything [here](https://github.com/zzyyyl/zzyyyl/issues).
 - 📧 Reach me through GitHub or aysyxx53@hotmail.com.
 
-#### languages
+#### Languages
 
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
+![](https://img.shields.io/badge/TypeScript-00599C?logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/HTML5-dd3364?logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/Markdown-1f903d?logo=markdown&logoColor=fff)
 
