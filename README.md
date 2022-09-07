@@ -19,6 +19,7 @@
 
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
+![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
 ![](https://img.shields.io/badge/TypeScript-00599C?logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/HTML5-dd3364?logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/Markdown-1f903d?logo=markdown&logoColor=fff)
@@ -26,8 +27,7 @@
 #### Tools
 
 ![](https://img.shields.io/badge/Sublime_Text_4-424242?logo=sublimetext&logoColor=FF9800)
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?style=flat-square&logo=visual-studio-code&logoColor=fff)
-![](https://img.shields.io/badge/-Visual%20Studio-6C4EA2?style=flat-square&logo=visual-studio&logoColor=fff)
+![](https://img.shields.io/badge/Visual%20Studio-6C4EA2?logo=visual-studio&logoColor=fff)
 ![](https://img.shields.io/badge/Git-E95420?logo=Git&logoColor=fff)
 
 #### Platforms
