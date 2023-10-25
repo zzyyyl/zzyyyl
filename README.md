@@ -7,10 +7,8 @@
 ---
 
 <img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=zzyyyl&theme=tokyonight&show_icons=true&count_private=true&hide_border=true">
-<!-- ![](https://github-readme-stats.vercel.app/api?username=zzyyyl&theme=tokyonight&show_icons=true&count_private=true) -->
 
-- 🐶 I'm currently a college student.✨
-- 🌱 I’m currently learning COD & OS.
+- 🐶 I'm currently a college student.✨ <!-- - 🌱 I’m currently learning COD & OS. -->
 - 👀 I'm interested in 💻coding, 📝math, 🎶music, 🎥anime.
 - 💬 Ask me about anything [here](https://github.com/zzyyyl/zzyyyl/issues).
 - 📧 Reach me through GitHub or aysyxx53@hotmail.com.
